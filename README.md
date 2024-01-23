@@ -6,4 +6,4 @@ This is a movie recommendation system designed to help users discover new movies
 
 Here is a demo video showing its functioning.
 
-https://github.com/SruthyK-S/movie_recommender/assets/141996444/50cb1999-a36d-4484-99cb-3aa113789f4a
+https://github.com/SruthyK-S/movie_recommender/assets/141996444/efb62119-50af-449b-ba71-1f3dacf5bc29
