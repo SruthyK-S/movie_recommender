@@ -10,7 +10,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 def fetch_poster(movie_id):
-    url = "https://api.themoviedb.org/3/movie/{}?api_key=5f734f1803d88471b1eeb4587c834162&language=en-US".format(movie_id)
+    url = "https://api.themoviedb.org/3/movie/{}?api_key={YOUR_API_KEY}&language=en-US".format(movie_id)
     data = requests.get(url)
     data = data.json()
     poster_path = data['poster_path']
